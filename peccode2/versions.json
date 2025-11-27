@@ -1,0 +1,22 @@
+{
+  "versions": [
+    {
+      "file": "peccode2-v1.0.0.bin",
+      "label": "v1.0.0 - Fábrica",
+      "date": "2025-11-20",
+      "desc": "Versão inicial de fábrica, estável."
+    },
+    {
+      "file": "peccode2-v1.1.0.bin",
+      "label": "v1.1.0 - Estável",
+      "date": "2025-11-25",
+      "desc": "Melhorias no filtro de peso e correções gerais."
+    },
+    {
+      "file": "peccode2-v1.2.0-beta.bin",
+      "label": "v1.2.0 - Beta",
+      "date": "2025-11-27",
+      "desc": "Versão beta com novas opções de filtro e UI."
+    }
+  ]
+}
