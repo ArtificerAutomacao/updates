@@ -17,6 +17,13 @@
       "label": "v1.2.0 - Beta",
       "date": "2025-11-27",
       "desc": "Versão beta com novas opções de filtro e UI."
+    },
+    {
+      "file": "FilelSenseWeightScale.bin",
+      "label": "v1.2.5 - Beta",
+      "date": "2025-12-19",
+      "desc": "Teste OTA"
     }
+
   ]
 }
