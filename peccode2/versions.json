@@ -4,7 +4,13 @@
       "file": "FilelSenseWeightScale.bin",
       "label": "v1.0.0 - Estável",
       "date": "2026-04-03",
-      "desc": "Peccode"
+      "desc": "Central Prccode"
+    },
+    {
+      "file": "Colpar.bin",
+      "label": "v1.0.0 - Beta",
+      "date": "18-05-2026",
+      "desc": "Central Prccode"
     }
 
   ]
