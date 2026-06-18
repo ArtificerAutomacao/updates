@@ -12,11 +12,17 @@
       "date": "18-05-2026",
       "desc": "Central Prccode"
     },
-        {
+    {
       "file": "Colpar2.bin",
       "label": "v1.0.0 - Beta",
       "date": "21-05-2026",
       "desc": "Central Prccode"
+    },
+    {
+      "file": "Peccode2filters.bin",
+      "label": "v1.1.0 - Beta",
+      "date": "17-06-2026",
+      "desc": "2 filtros"
     }
 
   ]
