@@ -18,6 +18,12 @@
       "date": "21-05-2026",
       "desc": "Central Prccode"
     },
+        {
+      "file": "Testes.bin",
+      "label": "v1.0.0 - Beta",
+      "date": "28-06-2026",
+      "desc": "Testes"
+    },
     {
       "file": "Peccode2filters.bin",
       "label": "v1.1.0 - Beta",
