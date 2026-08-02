@@ -1,34 +1,16 @@
 {
   "versions": [
     {
-      "file": "FilelSenseWeightScale.bin",
+      "file": "peccode.bin",
       "label": "v1.0.0 - Estável",
       "date": "2026-04-03",
       "desc": "Central Prccode"
     },
     {
-      "file": "Colpar.bin",
-      "label": "v1.0.0 - Beta",
-      "date": "18-05-2026",
+      "file": "peccode-1.2.0.bin",
+      "label": "v1.3.0 - Beta",
+      "date": "02-08-2026",
       "desc": "Central Prccode"
-    },
-    {
-      "file": "Colpar2.bin",
-      "label": "v1.0.0 - Beta",
-      "date": "21-05-2026",
-      "desc": "Central Prccode"
-    },
-        {
-      "file": "Testes.bin",
-      "label": "v1.0.0 - Beta",
-      "date": "28-06-2026",
-      "desc": "Testes"
-    },
-    {
-      "file": "Peccode2filters.bin",
-      "label": "v1.1.0 - Beta",
-      "date": "17-06-2026",
-      "desc": "2 filtros"
     }
 
   ]
