@@ -1,0 +1,10 @@
+{
+  "versions": [
+    {
+      "file": "peccode-1.3.0.bin",
+      "label": "v1.3.0 - Estável",
+      "date": "24-08-2026",
+      "desc": "Central Prccode versão para vagão"
+    }
+  ]
+}
