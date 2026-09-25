@@ -1,23 +1,10 @@
 {
   "versions": [
-    {
-      "file": "peccode.bin",
-      "label": "v1.0.0 - Estável",
-      "date": "2026-04-03",
-      "desc": "Central Prccode"
-    },
-    {
-      "file": "peccode-1.2.0.bin",
-      "label": "v1.2.0 - Beta",
-      "date": "02-08-2026",
-      "desc": "Central Prccode"
-    },
      {
-      "file": "peccode-1.2.1.bin",
-      "label": "v1.2.1 - Fabrica",
-      "date": "13-09-2026",
-      "desc": "Fabrica Pirangi"
+      "file": "peccode-1.2.2.bin",
+      "label": "v1.2.2 - Novo Painel",
+      "date": "24-09-2026",
+      "desc": "Aceita dois tipos de LCD"
     }
-
   ]
 }
