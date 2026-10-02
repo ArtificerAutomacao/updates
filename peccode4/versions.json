@@ -11,6 +11,12 @@
       "label": "v1.3.1 - Estável",
       "date": "11-09-2026",
       "desc": "Vagao Pirangi"
+    },
+    {
+      "file": "peccode-1.3.2.bin",
+      "label": "v1.3.2 - Estável",
+      "date": "02-10-2026",
+      "desc": "Vagao sem display"
     }
   ]
 }
