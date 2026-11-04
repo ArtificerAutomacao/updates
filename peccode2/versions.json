@@ -5,6 +5,12 @@
       "label": "v1.2.2 - Novo Painel",
       "date": "24-09-2026",
       "desc": "Aceita dois tipos de LCD"
+    },
+    {
+      "file": "fabrica.bin",
+      "label": "v1.2.5 - Fabrica",
+      "date": "04-10-2026",
+      "desc": "Aceita dois tipos de LCD e fabrica"
     }
   ]
 }
