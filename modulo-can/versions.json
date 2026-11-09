@@ -1,0 +1,10 @@
+{
+  "versions": [
+    {
+      "file": "modulo-can-0.1.1.bin",
+      "label": "v0.1.1 - Teste",
+      "date": "09-11-2026",
+      "desc": "Sinais simulados senoidais e LED de estado"
+    }
+  ]
+}
