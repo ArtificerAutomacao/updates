@@ -1,0 +1,11 @@
+{
+  "versions": [
+    {
+      "file": "pawa-rele-2.0.0.bin",
+      "label": "v2.0.0 - Teste",
+      "date": "13-11-2026",
+      "desc": "Gerenciador de carga ESP32-C3: ESP-NOW + RS485, web por CHAVE1+CHAVE2 no boot, ajuste dos voltimetros, OTA online",
+      "sha256": "6f1bf717c20427bc822ea2cd2562dd3453479929f12070f897aa4128e6cc822c"
+    }
+  ]
+}
