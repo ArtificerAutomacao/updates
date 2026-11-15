@@ -5,6 +5,12 @@
       "label": "v0.1.1 - Teste",
       "date": "09-11-2026",
       "desc": "Sinais simulados senoidais e LED de estado"
+    },
+    {
+      "file": "modulo-can-0.1.2.bin",
+      "label": "v0.1.2 - Teste",
+      "date": "15-11-2026",
+      "desc": "Sensor real BMI160/BMI120 ou LSM6DS3 e GPS real"
     }
   ]
 }
