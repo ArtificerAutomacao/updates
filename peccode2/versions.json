@@ -15,8 +15,8 @@
     {
       "file": "peccode-1.2.6.bin",
       "label": "v1.2.6 - Teste",
-      "date": "07-11-2026",
-      "desc": "Log, filtro, envio e 5 redes Wi-Fi"
+      "date": "15-11-2026",
+      "desc": "Log, filtro, envio, 5 redes Wi-Fi e módulo CAN (sensor, GPS e FFT)"
     }
   ]
 }
