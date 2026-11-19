@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "file": "painel-fm6126a-1.0.0.bin",
+      "label": "v1.0.0 - Painel antigo (FM6126A)",
+      "date": "19-11-2026",
+      "desc": "Velocidade automática e atualização por Wi-Fi"
+    },
+    {
+      "file": "painel-ys-p5-1.0.0.bin",
+      "label": "v1.0.0 - Painel YS-P5",
+      "date": "19-11-2026",
+      "desc": "Velocidade automática e atualização por Wi-Fi"
+    }
+  ]
+}
