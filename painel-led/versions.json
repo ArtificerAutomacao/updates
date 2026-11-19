@@ -1,16 +1,16 @@
 {
   "versions": [
     {
-      "file": "painel-fm6126a-1.0.2.bin",
-      "label": "v1.0.2 - Painel antigo (FM6126A)",
+      "file": "painel-fm6126a-1.0.3.bin",
+      "label": "v1.0.3 - Painel antigo (FM6126A)",
       "date": "19-11-2026",
-      "desc": "Espera 60 s na velocidade salva antes de procurar outra"
+      "desc": "Espera 15 s na velocidade salva antes de procurar outra"
     },
     {
-      "file": "painel-ys-p5-1.0.2.bin",
-      "label": "v1.0.2 - Painel YS-P5",
+      "file": "painel-ys-p5-1.0.3.bin",
+      "label": "v1.0.3 - Painel YS-P5",
       "date": "19-11-2026",
-      "desc": "Espera 60 s na velocidade salva antes de procurar outra"
+      "desc": "Espera 15 s na velocidade salva antes de procurar outra"
     }
   ]
 }
