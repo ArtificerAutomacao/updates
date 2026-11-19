@@ -15,8 +15,8 @@
     {
       "file": "peccode-1.2.6.bin",
       "label": "v1.2.6 - Produção",
-      "date": "18-11-2026",
-      "desc": "Log, filtro, envio, 5 redes Wi-Fi, módulo CAN (sensor, GPS e FFT), novos padrões de fábrica e RTC, SD e CAN no boot"
+      "date": "19-11-2026",
+      "desc": "Log, filtro, envio, 5 redes Wi-Fi, módulo CAN (sensor, GPS e FFT), padrões de fábrica, RTC/SD/CAN no boot e painel LED (velocidade e atualização por Wi-Fi)"
     }
   ]
 }
